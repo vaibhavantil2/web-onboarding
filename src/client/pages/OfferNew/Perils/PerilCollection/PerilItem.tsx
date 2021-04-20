@@ -59,7 +59,7 @@ const Container = styled.span`
 
     @media (min-width: 400px) {
       margin-right: 0;
-      width: 100%;
+      width: 3rem;
       height: 3rem;
       min-width: 0;
       min-height: 0;
